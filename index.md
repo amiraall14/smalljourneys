@@ -1,6 +1,6 @@
 # welcome to amira's travel blog! 🏔️🏔
 
-Explore the world through my eyes as I share my journeys, tips, and experiences.
+Come along as I share small bites of the world through my eyes
 
 ![Travel Image](https://via.placeholder.com/800x300 "Travel Adventures")
 
