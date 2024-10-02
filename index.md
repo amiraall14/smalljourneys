@@ -1,4 +1,4 @@
-# welcome to amira's travel blog! 🏔️🏔
+# Welcome to Amira's travel blog! 🏔️
 
 Come along as I share small bites of the world through my eyes
 
@@ -6,9 +6,9 @@ Come along as I share small bites of the world through my eyes
 
 ## Latest Blog Posts
 
-- [Exploring the Beauty of Bali](bali.md)
-- [Adventures in the Swiss Alps](swiss-alps.md)
-- [A Culinary Journey in Italy](italy.md)
+- [Exploring the Beauty of the Lyon region](lyon.md)
+- [Swiss Days](swiss.md)
+- [Food Journal](food.md)
 
 ## About Me
 
