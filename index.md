@@ -1,3 +1,9 @@
+<style>
+        body {
+            background-color: ##FAF9F6; /* Bleu pastel */
+            padding: 20px;
+        }
+    </style>
 # Welcome to Amira's travel blog! 🏔️
 
 Come along as I share small bites of the world through my eyes
