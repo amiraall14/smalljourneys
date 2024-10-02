@@ -1,6 +1,6 @@
 <style>
         body {
-            background-color: ##FAF9F6; /* Bleu pastel */
+            background-color: #FAF9F6; /* Bleu pastel */
             padding: 20px;
         }
     </style>
@@ -21,3 +21,9 @@ Come along as I share small bites of the world through my eyes
 Hi, I'm Amira! I’m passionate about traveling and discovering new cultures. Join me on my adventures!
 
 [Learn more about me](about.md)
+
+<style>
+        body {
+          color: #B2AC88; /* Bleu pastel */
+        }
+    </style>
