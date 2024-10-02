@@ -24,6 +24,6 @@ Hi, I'm Amira! I’m passionate about traveling and discovering new cultures. Jo
 
 <style>
         body {
-          color: #B2AC88; /* Bleu pastel */
+          color: #505C45; /* Bleu pastel */
         }
     </style>
