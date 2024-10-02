@@ -7,7 +7,7 @@
     
 # About Me ☾⋆｡𖦹 °✩
 
-![Travel Image](pic2.png "Travel Adventures")
+![Travel Image](pic2.png)
 
 ## A Few Words
 
