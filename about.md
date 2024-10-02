@@ -1,5 +1,7 @@
 # About Me ☾⋆｡𖦹 °✩
 
+![Travel Image](pic2.png "Travel Adventures")
+
 ## A Few Words
 
 My name is Amira, and I am a student with a passion for languages, books, and exploring new places.
@@ -14,4 +16,8 @@ I believe in the beauty of slowing down and truly savoring the journey. For me, 
 
 I avoid flying whenever I can, preferring to take the scenic routes by train, bus, or even on foot. It’s a more mindful way to travel, allowing me to connect with the places and people I encounter along the way. I also choose not to share my travels on social media, as I find the experience more fulfilling when it's personal and uninterrupted. Traveling at a slower pace helps me appreciate the simple joys of the road, and that’s the heart of my journey.
 
-<style> body { color: #505C45; /* Bleu pastel */ } </style> 
+<style>
+        body {
+          color: #505C45; /* Bleu pastel */
+        }
+    </style>
