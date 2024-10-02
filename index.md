@@ -4,10 +4,11 @@
             padding: 20px;
         }
     </style>
-# ☾⋆｡𖦹 °✩
+# Welcome to Small Journeys ☾⋆｡𖦹 °✩
 
-Welcome to Small Journeys, where I share simple journeys through France and beyond.
-Discover quiet places, local flavors, and the joy of humble travel, one bite and step at a time.
+Come along as I share simple journeys through France and beyond.
+Discover quiet places, local flavors, and the joy of humble travel, one step (and bite !) at a time.
+
 ![Travel Image](pic1.png "Travel Adventures")
 
 ## Latest Blog Posts
