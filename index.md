@@ -13,6 +13,7 @@ Discover quiet places, local flavors, and the joy of humble travel, one step (*a
 ![Travel Image](pic1.png "Travel Adventures")
 
 > Traveling—it leaves you speechless, then turns you into a storyteller.
+— Ibn Battuta
 
 ## Latest Blog Posts
 
