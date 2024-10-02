@@ -1,3 +1,10 @@
+<style>
+        body {
+            background-color: #FAF9F6; /* Bleu pastel */
+            padding: 20px;
+        }
+    </style>
+    
 # About Me ☾⋆｡𖦹 °✩
 
 ![Travel Image](pic2.png "Travel Adventures")
