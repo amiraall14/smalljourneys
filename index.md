@@ -4,10 +4,10 @@
             padding: 20px;
         }
     </style>
-# Welcome to Amira's travel blog! 🏔️
+# ☾⋆｡𖦹 °✩
 
-Come along as I share small bites of the world through my eyes
-
+Welcome to Small Journeys, where I share simple journeys through France and beyond.
+Discover quiet places, local flavors, and the joy of humble travel, one bite and step at a time.
 ![Travel Image](pic1.png "Travel Adventures")
 
 ## Latest Blog Posts
