@@ -7,6 +7,7 @@
 # Welcome to Small Journeys ☾⋆｡𖦹 °✩
 
 Come along as I share simple journeys through France and beyond.
+
 Discover quiet places, local flavors, and the joy of humble travel, one step (and bite !) at a time.
 
 ![Travel Image](pic1.png "Travel Adventures")
