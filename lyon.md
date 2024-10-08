@@ -5,7 +5,7 @@
 Lyon is a charming city filled with history, beauty, and delicious food. I spent four wonderful days there, and every moment was a mix of adventure and relaxation. If you're planning a visit, here’s a peek into my itinerary--psst! At the end of this blog post, you'll find a summary of my trip in a digestable table format ♡
 
 ### Day 1: Exploring Vieux Lyon
-On the first day, I wandered through the magical streets of **Vieux Lyon**. The old town is full of charm with its cobblestone paths and colorful Renaissance buildings. I visited the stunning **Basilica of Notre-Dame de Fourvière**, which offers a beautiful view of the city. I had lunch at a tiny restaurant that sold sandos sandwiches that I had wanted to try in a minute ! I had the smoked salmon one and my friend, the fried chicken one. It was delicious!
+On the first day, I wandered through the magical streets of **Vieux Lyon**. The old town is full of charm with its cobblestone paths and colorful Renaissance buildings. I visited the stunning **Basilica of Notre-Dame de Fourvière**, which offers a beautiful view of the city. I had lunch at a tiny restaurant that sold [sando](https://kokorocares.com/blogs/blog/sando-the-iconic-japanese-sandwich) sandwiches that I had wanted to try in a minute ! I had the smoked salmon one and my friend, the fried chicken one. It was delicious!
 
 ![Travel Image](pic3.png "Day1")
 
