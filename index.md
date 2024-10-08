@@ -15,13 +15,12 @@ Discover quiet places, local flavors, and the joy of humble travel, one ~~bite~~
 > Traveling—it leaves you speechless, then turns you into a storyteller.
 — Ibn Battuta
 
-## Latest Posts
+## Latest Posts ✩
 
 * [Exploring the Beauty of the Lyon region](lyon.md)
-* [Swiss Days](swiss.md)
 * [Food Journal](food.md)
 
-## About Me
+## About Me ☾
 
 Hi, I'm Amira!
 [Get to know me a *little* better!](about.md)
