@@ -4,8 +4,9 @@
             padding: 20px;
         }
     </style>
-    
-# About Me ☾⋆｡𖦹 °✩
+
+# ☾⋆｡𖦹 °✩
+## About Me 
 
 ![Travel Image](pic2.png)
 
