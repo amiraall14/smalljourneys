@@ -12,10 +12,11 @@ On the first day, I wandered through the magical streets of **Vieux Lyon**. The 
 ### Day 2: Presqu’île and Art
 Day two was all about exploring the heart of Lyon. I started at **Place Bellecour**, a lively square perfect for taking a break and people-watching. Then, I visited the **Musée des Beaux-Arts**—a lovely stop for art lovers. To make the day even more fun, I rented a bike and rode around the **Presqu’île** district, discovering hidden cafés and boutiques along the way.
 
-![Travel Image](pic4.png "Day2")
+![Travel Image](pic4.jpg "Day2")
 
 ### Day 3: Relaxing at Parc de la Tête d'Or
 After two days of exploring, I slowed down on day three at **Parc de la Tête d'Or**, a huge and peaceful park. I had a sweet little picnic by the lake, took a **boat ride**, and strolled through the park’s free zoo. It was the perfect way to unwind and enjoy nature in the middle of the city.
+
 ![Travel Image](pic5.png "Day3")
 
 ### Day 4: Art and History in Croix-Rousse
