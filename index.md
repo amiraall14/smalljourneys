@@ -8,24 +8,23 @@
 
 Come along as I share simple journeys through France and beyond.
 
-Discover quiet places, local flavors, and the joy of humble travel, one step (*and bite !*) at a time.
+Discover quiet places, local flavors, and the joy of humble travel, one ~~bite~~ step at a time.
 
 ![Travel Image](pic1.png "Travel Adventures")
 
 > Traveling—it leaves you speechless, then turns you into a storyteller.
 — Ibn Battuta
 
-## Latest Blog Posts
+## Latest Posts
 
-- [Exploring the Beauty of the Lyon region](lyon.md)
-- [Swiss Days](swiss.md)
-- [Food Journal](food.md)
+* [Exploring the Beauty of the Lyon region](lyon.md)
+* [Swiss Days](swiss.md)
+* [Food Journal](food.md)
 
 ## About Me
 
-Hi, I'm Amira! I’m passionate about traveling and discovering new cultures. Join me on my adventures!
-
-[Learn more about me](about.md)
+Hi, I'm Amira!
+[Get to know me a *little* better!](about.md)
 
 <style>
         body {
