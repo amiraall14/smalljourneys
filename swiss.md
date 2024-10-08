@@ -1,1 +1,0 @@
-My trip to switzerland
