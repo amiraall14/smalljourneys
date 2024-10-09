@@ -1,5 +1,6 @@
 <style> body { background-color: #FAF9F6; /* Bleu pastel */ padding: 20px; } </style>
-# A Collection of Lovely Eats 🌯 🍱 🍜 🍲
+# Food Journal
+## A collection of lovely things I ate  🌯 🍱 🍜 🍲
 ![Travel Image](pic6.png "Day1")
 ![Travel Image](pic7.png "Day1")
 ![Travel Image](pic8.png "Day1")
