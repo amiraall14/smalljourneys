@@ -12,6 +12,6 @@ Scroll down and enjoy the *beautiful* colours of these **lovely** eats !
 ![Travel Image](pic10.png)
 ![Travel Image](pic11.png)
 ![Travel Image](pic12.png)
-![Travel Image](pic13.png)
+![Travel Image](pic13.jpg)
 
 <style> body { color: #505C45; /* Bleu pastel */ } </style>
