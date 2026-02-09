@@ -14,7 +14,7 @@ Le deuxième jour a été consacré à la découverte du cœur de Lyon. J'ai com
 
 ![Travel Image](../pic4.jpg "Jour2")
 
-### Troisième jour : Se détendre au Parc de la Tête d'Or
+### Jour 3 : Se détendre au Parc de la Tête d'Or
 Après deux jours d'exploration, j'ai ralenti le troisième jour au **Parc de la Tête d'Or**, un parc immense et paisible. J'ai fait un petit pique-nique au bord du lac, j'ai fait un **tour** en bateau et je me suis promenée dans le zoo gratuit du parc. C'était le moyen idéal de se détendre et de profiter de la nature en pleine ville.
 
 ![Travel Image](../pic5.png "Jour3")
