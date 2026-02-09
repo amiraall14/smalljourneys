@@ -26,6 +26,11 @@ Le dernier jour, j'ai exploré le quartier artistique de la Croix-Rousse. Ce qua
 Lyon m'a séduit par son charme et son élégance. De sa cuisine délicieuse à sa riche histoire, chaque jour était une nouvelle aventure. J'ai hâte d'y retourner pour en découvrir encore plus !
 
 
-| **Jour** | **Destination** | **Activités** | **Notes** | |---------|--------------------|------------------------------------------------|----------------------------------| | Jour 1 | Vieux Lyon | Explorer le Vieux Lyon, visiter la Basilique Notre-Dame de Fourvière | N'oubliez pas de goûter à la cuisine locale comme les "quenelles" | | Jour 2 | Quartier de la Presqu'île | Promenade sur la Place Bellecour, visite du Musée des Beaux-Arts, | Jour 3 | Parc de la Tête d'Or | Pique-nique, promenade en bateau sur le lac, visite du zoo | Prévoir des en-cas et de l'eau | Jour 4 | Croix-Rousse | Explorer les fresques murales, visiter les traboules (passages cachés) | Porter des chaussures confortables |
+| **Day** | **Destination**    | **Activities**                                 | **Notes**                        |
+|---------|--------------------|------------------------------------------------|----------------------------------|
+| Jour 1   | Vieux Lyon       | Visiter la Basilique Notre-Dame de Fourvière | N'oubliez pas de goûter à la cuisine locale comme les "quenelles" |
+| Jour 2   | Quartier de la Presqu'île | Promenade sur la Place Bellecour, visite du Musée des Beaux-Arts | Louer un vélo |
+| Jour 3   | Parc de la Tête d'Or | Pique-nique, promenade en bateau sur le lac, visite du zoo      | Prévoir des en-cas et de l'eau           |
+| Jour 4   | Croix-Rousse        | Explorer les fresques murales, visiter les traboules (passages cachés) | Porter des chaussures confortables          |
 
 <style> body { color: #505C45; /* Bleu pastel */ } </style>
