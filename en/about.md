@@ -8,7 +8,7 @@
 # ☾⋆｡𖦹 °✩
 ## About Me 
 
-![Travel Image](pic2.png)
+![Travel Image](../pic2.png)
 
 ## A Few Words
 
