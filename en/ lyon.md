@@ -7,17 +7,17 @@ Lyon is a charming city filled with history, beauty, and delicious food. I spent
 ### Day 1: Exploring Vieux Lyon
 On the first day, I wandered through the magical streets of **Vieux Lyon**. The old town is full of charm with its cobblestone paths and colorful Renaissance buildings. I visited the stunning **Basilica of Notre-Dame de Fourvière**, which offers a beautiful view of the city. I had lunch at a tiny restaurant that sold [sando](https://kokorocares.com/blogs/blog/sando-the-iconic-japanese-sandwich) sandwiches that I had wanted to try in a minute ! I had the smoked salmon one and my friend, the fried chicken one. It was delicious!
 
-![Travel Image](pic3.png "Day1")
+![Travel Image](../pic3.png "Day1")
 
 ### Day 2: Presqu’île and Art
 Day two was all about exploring the heart of Lyon. I started at **Place Bellecour**, a lively square perfect for taking a break and people-watching. Then, I visited the **Musée des Beaux-Arts**—a lovely stop for art lovers. To make the day even more fun, I rented a bike and rode around the **Presqu’île** district, discovering hidden cafés and boutiques along the way.
 
-![Travel Image](pic4.jpg "Day2")
+![Travel Image](../pic4.jpg "Day2")
 
 ### Day 3: Relaxing at Parc de la Tête d'Or
 After two days of exploring, I slowed down on day three at **Parc de la Tête d'Or**, a huge and peaceful park. I had a sweet little picnic by the lake, took a **boat ride**, and strolled through the park’s free zoo. It was the perfect way to unwind and enjoy nature in the middle of the city.
 
-![Travel Image](pic5.png "Day3")
+![Travel Image](../pic5.png "Day3")
 
 ### Day 4: Art and History in Croix-Rousse
 On my last day, I explored the artistic **Croix-Rousse** district. This area is filled with beautiful murals and hidden passageways called **traboules**. The mix of history and street art made for a lovely end to the trip, even if the steep streets were a bit of a workout!
